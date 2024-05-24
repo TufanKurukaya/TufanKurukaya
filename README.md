@@ -1,5 +1,3 @@
-![MasterHead]
-
 # Hi, I'm [Tufan]! 👋
 
 ## About Me
@@ -11,6 +9,7 @@ Hello! I am Tufan, a software developer who is constantly learning and improving
 - 🎓 **Training:** [École 42]
 
 <p align="left"><a href="https://profile.intra.42.fr/users/tkurukay" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/2048px-42_Logo.svg.png" alt="42" width="40" height="40"/> </a> </p>
+
 ## Technical Skills
 
 - **Programming Languages:** [Python, C, C#]
@@ -19,7 +18,7 @@ Hello! I am Tufan, a software developer who is constantly learning and improving
 ## Contact
 
 - **📫 How to reach me:** [kurukayatufan@gmail.com]
-<a href="https://www.linkedin.com/in/tufan-kurukaya-a31a6729b/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="linkedin" width="40" height="40"/> </a> </p>
+<p align="left"><a href="https://www.linkedin.com/in/tufan-kurukaya-a31a6729b/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="linkedin" width="40" height="40"/> </a> </p>
 
 [![GitHub Takip Et](https://img.shields.io/github/followers/TufanKurukaya?label=Takip%20Et&style=social)](https://github.com/TufanKurukaya)
 
