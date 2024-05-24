@@ -1,6 +1,6 @@
-# Hi, I'm [Tufan]! 👋
+![MasterHead]
 
-![GitHub Profilim](https://github-readme-stats.vercel.app/api?username=TufanKurukaya&show_icons=true&theme=radical)
+# Hi, I'm [Tufan]! 👋
 
 ## About Me
 
@@ -14,7 +14,7 @@ Hello! I am Tufan, a software developer who is constantly learning and improving
 ## Technical Skills
 
 - **Programming Languages:** [Python, C, C#]
-<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.python.org/static/img/python-logo.png" alt="Python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a></p>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a></p>
 
 ## Contact
 
@@ -22,6 +22,8 @@ Hello! I am Tufan, a software developer who is constantly learning and improving
 <a href="https://www.linkedin.com/in/tufan-kurukaya-a31a6729b/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="linkedin" width="40" height="40"/> </a> </p>
 
 [![GitHub Takip Et](https://img.shields.io/github/followers/TufanKurukaya?label=Takip%20Et&style=social)](https://github.com/TufanKurukaya)
+
+![GitHub Profilim](https://github-readme-stats.vercel.app/api?username=TufanKurukaya&show_icons=true&theme=radical)
 
 ## Contributing
 
